@@ -12,6 +12,8 @@ In order to install AG Linux, you must have:
 
 - USB Flash Drive with 8GB of free storage
 
+The USB must have 6GB + amount of ram you have for best performance
+
 First of all, you need to download YUMI exFAT USB Creator, you can do it here:
 https://www.pendrivelinux.com/downloads/YUMI/YUMI-exFAT-1.0.1.5.exe
 
@@ -56,6 +58,8 @@ We'll start by preparing your flash drive.
 - Space for you osu! maps
 - Space for your osu! skins
 - Other files that you will download
+
+**_If you allocate less space than your RAM, expect really slow loading speeds and freezes._**
 
 ![](/images/8.png)
 
